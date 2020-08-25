@@ -1,1 +1,1 @@
-alert("Repositorios locales y remotos con Git & GitHub");
+console.log("Repositorios locales y remotos con Git & GitHub");
